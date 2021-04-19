@@ -11,4 +11,4 @@ The digitalized music has brought joy and entertainment to the society for decad
 3. Enjoy and have fun!
 
 ## Contributor
-Jingxuan Wu, Yufei Zhu, Jiafeng Chen
+Jingxuan Wu, Yufei Zhu, Yingwen Tan, Jiafeng Chen
