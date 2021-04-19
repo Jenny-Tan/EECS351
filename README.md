@@ -10,5 +10,8 @@ The digitalized music has brought joy and entertainment to the society for decad
 2. Run the `auidoEffectBoxUI.mlapp` with MATLAB 2021a or higher
 3. Enjoy and have fun!
 
+## Notice
+*the code used in this repository requrieds MATLAB 2021a (or higher if available).
+
 ## Contributor
 Jingxuan Wu, Yufei Zhu, Yingwen Tan, Jiafeng Chen
