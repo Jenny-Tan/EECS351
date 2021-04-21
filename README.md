@@ -7,11 +7,23 @@ The digitalized music has brought joy and entertainment to the society for decad
 
 ## QuickStart
 1. Download all the files into the repository
-2. Run the `auidoEffectBoxUI.mlapp` with MATLAB 2021a or higher
+2. Run the `auidoEffectBoxUI.mlapp` by double-click and select `run` inside the app designer
 3. Enjoy and have fun!
+
+## Files for different functionalities
+# 1. The equalization: 
+`shelving.m`, `shelvingDemo.m`, `delay.m`, 
+# 2. The reverberation:
+`allpassFilter.m`, `combFilter.m`, `pre_delay.m`, `reverb.m`
+# 3. The distortion:
+`P_combine.m`, `findpitchmarks.m`, `PSOLA.m`
+
 
 ## Notice
 *the code used in this repository requrieds MATLAB 2021a (or higher if available).*
+*All sound files have been written by ourselves and were not obtained through various sources.*
+*External reference will be listed specifically in the report and website.*
 
 ## Contributor
 Jingxuan Wu, Yufei Zhu, Yingwen Tan, Jiafeng Chen
+
