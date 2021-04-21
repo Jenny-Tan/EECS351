@@ -11,11 +11,11 @@ The digitalized music has brought joy and entertainment to the society for decad
 3. Enjoy and have fun!
 
 ## Files for different functionalities
-# 1. The equalization: 
+### 1. The equalization: 
 `shelving.m`, `shelvingDemo.m`, `delay.m`, 
-# 2. The reverberation:
+### 2. The reverberation:
 `allpassFilter.m`, `combFilter.m`, `pre_delay.m`, `reverb.m`
-# 3. The distortion:
+### 3. The distortion:
 `P_combine.m`, `findpitchmarks.m`, `PSOLA.m`
 
 
